@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parqueoapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b999797f720522c659ec0aee0f8dbbf8f5eabd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+287ee8e94a506f74a8376224cdd64fad3704cc51")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parqueoapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parqueoapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

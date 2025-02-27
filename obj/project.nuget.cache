@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kO4DiEe7jvU=",
+  "dgSpecHash": "jd7CJWp9ZVY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\Parqueoapi\\Parqueoapi\\Parqueoapi.csproj",
+  "projectFilePath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\Parqueoapi\\Parqueoapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\azure.identity\\1.13.2\\azure.identity.1.13.2.nupkg.sha512",
